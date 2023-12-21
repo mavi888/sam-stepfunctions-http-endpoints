@@ -1,0 +1,20 @@
+{
+	"name": "sam-stepfunctions-http-endpoints",
+	"version": "1.0.0",
+	"description": "_Infrastructure as code framework used_: AWS SAM _AWS Services used_: AWS Step Functions",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mavi888/sam-stepfunctions-http-endpoints.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/mavi888/sam-stepfunctions-http-endpoints/issues"
+	},
+	"homepage": "https://github.com/mavi888/sam-stepfunctions-http-endpoints#readme"
+}
